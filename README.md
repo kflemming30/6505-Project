@@ -1,4 +1,4 @@
-# This is the initial project file
+## This is the initial project file
 
 This study delves into the intricate relationship between subjective Airbnb reviews and objective neighborhood metrics. We collected diverse datasets, including crime statistics, transportation accessibility, demographics, socioeconomic indicators, and environmental quality, aligning them with sentiments expressed in Airbnb reviews.
 
