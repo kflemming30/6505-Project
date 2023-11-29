@@ -1,27 +1,43 @@
-## This is the initial project file
+# Project Overview
 
-This study delves into the intricate relationship between subjective Airbnb reviews and objective neighborhood metrics. We collected diverse datasets, including crime statistics, transportation accessibility, demographics, socioeconomic indicators, and environmental quality, aligning them with sentiments expressed in Airbnb reviews.
+This study aims to explore the relationship between subjective Airbnb reviews and objective neighborhood metrics. The project involves analyzing diverse datasets, including crime statistics, transportation accessibility, demographics, socioeconomic indicators, and environmental quality, aligning them with sentiments expressed in Airbnb reviews.
 
-Using correlation techniques—regression, clustering, and correlation coefficients—we will look at meaningful associations, highlighting how subjective perceptions align intricately with quantifiable neighborhood attributes. Visualization, including scatter plots and heatmaps, will show nuanced relationships discovered.
+## Objectives
+- Investigate correlations between subjective perceptions in reviews and quantifiable neighborhood attributes.
+- Enhance understanding of how guest experiences align with tangible neighborhood characteristics.
+- Establish a framework aligning review sentiments with diverse objective metrics.
 
-This integrated study enhances our understanding of how guest experiences correspond with tangible neighborhood characteristics and establishes a framework aligning review sentiments with diverse objective metrics, illuminating complex dynamics shaping urban perceptions.
+## Methodologies and Tools
+- **Data Collection**: Utilize Python libraries (such as Pandas and Requests) to collect and preprocess datasets.
+- **Correlation Techniques**: Employ regression analysis, clustering algorithms (like K-means), and correlation coefficients to identify associations.
+- **Visualization**: Use Matplotlib or Seaborn for scatter plots, heatmaps, and visual representation of relationships.
 
 ## Data Collection and Analysis:
 
-### **Crime Statistics**:
-Compile crime data from law enforcement to match specific neighborhoods in reviews.
+### Crime Statistics:
+- **Data Collection**: Retrieve crime data from law enforcement databases.
+- **Methodology**: Match crimes to specific neighborhoods mentioned in reviews using geocoding techniques.
+- **Expected Outcome**: Understand the correlation between reported crimes and sentiments in reviews.
 
-### **Transportation Data**:
-Gather transit information, aligning it with locations mentioned in reviews.
+### Transportation Data:
+- **Data Collection**: Gather transit information using APIs or transportation databases.
+- **Methodology**: Align transportation data with locations mentioned in reviews through geospatial analysis.
+- **Expected Outcome**: Analyze the impact of transportation accessibility on review sentiments.
 
-### **Demographic Data**:
-Access census databases for population, income, education in reviewed neighborhoods.
+### Demographic Data:
+- **Data Collection**: Access census databases for population, income, and education information in reviewed neighborhoods.
+- **Methodology**: Conduct demographic profiling and segmentation.
+- **Expected Outcome**: Identify relationships between demographics and sentiments expressed in reviews.
 
-### **Environmental Quality**:
-Obtain air quality, pollution, green space data for the neighborhoods.
+### Environmental Quality:
+- **Data Collection**: Obtain air quality, pollution, and green space data from environmental agencies.
+- **Methodology**: Spatial analysis to correlate environmental factors with review sentiments.
+- **Expected Outcome**: Understand how environmental quality influences guest perceptions.
 
-### **Correlation Techniques**:
-Use regression, clustering, and correlation coefficients for analysis, quantifying relationships and visualizing patterns.
+### Socio-economic Metrics:
+- **Methodology**: Utilize regression analysis, clustering algorithms, and correlation coefficients.
+- **Expected Outcome**: Quantify relationships and visualize patterns between subjective perceptions and objective metrics.
 
-### **Neighborhood Metrics**:
-Analyze public transportation, environmental factors, urban development, and weather data to align with guest perceptions from reviews.
+
+## Conclusion
+This integrated study aims to enhances our understanding of how guest experiences correspond with tangible neighborhood characteristics and establishes a framework aligning review sentiments with diverse objective metrics, illuminating complex dynamics shaping urban perceptions.
