@@ -1,3 +1,6 @@
+
+# "Insights into Urban Dynamics: Analyzing Airbnb Reviews and Neighborhood Metrics"
+
 # Project Overview
 
 This study aims to explore the relationship between subjective Airbnb reviews and objective neighborhood metrics. The project involves analyzing diverse datasets, including crime statistics, transportation accessibility, demographics, socioeconomic indicators, and environmental quality, aligning them with sentiments expressed in Airbnb reviews.
