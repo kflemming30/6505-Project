@@ -47,7 +47,7 @@ This study explores the relationship between subjective Airbnb reviews and objec
 - Addressing Short-Term Rentals vs Long-Term Rentals
 
 ### Expected Results
-- Higher ratings in areas with higher cost of living, warmer climates, suburban settings, and newer houses.
+- Higher ratings in areas with higher cost of living, warmer climates, close proximity to the beach, suburban settings, and newer houses.
 - Lower ratings in lower-income areas and those with higher crime rates.
 
 ### Conclusion
