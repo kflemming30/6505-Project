@@ -1,0 +1,6 @@
+import pandas as pd
+import requests
+
+# Read the CSV files into pandas DataFrames
+boston_review = pd.read_csv(https://github.com/kflemming30/6505-Project/blob/main/Boston%20reviews.csv.gz)
+boston_review.head()
