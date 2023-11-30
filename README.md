@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This study explores the relationship between subjective Airbnb reviews and objective neighborhood metrics in specific US cities. The analysis involves crime statistics, demographics, socioeconomic indicators, environmental quality, aligning them with sentiments expressed in Airbnb reviews.
+This study aims to investigate the correlation between subjective Airbnb reviews and objective neighborhood metrics in select US cities. It involves analyzing crime statistics, demographics, socioeconomic indicators, and environmental quality to understand how they relate to sentiments expressed in Airbnb reviews.
+
 ---
 ### Objectives
 
@@ -39,37 +40,21 @@ This study explores the relationship between subjective Airbnb reviews and objec
 - **Methodology**: Spatial analysis to correlate environmental factors with review sentiments.
 ---
 ### Anticipated Challenges
-<<<<<<< HEAD
-- Joining data on location (city names vs long/lat, vs zip codes
-- Scraping descriptive keywords from reviews
-- Learning Github
-- Selecting the ~right~ variables to compare
-- Correlation vs. Causation
-- Temporal Changes - Socioeconomic factors and Airbnb ratings may change over time
-=======
+
 - Data integration challenges (location data, scraping keywords).
 - Learning curve with GitHub.
 - Selecting relevant variables for comparison.
 - Distinguishing correlation from causation.
 - Addressing temporal changes in socioeconomic factors and reviews.
 - Addressing Short-Term Rentals vs Long-Term Rentals
->>>>>>> 532822dc3916870c5e92ceeb42ef334768fa9d10
 
 ---
 ### Expected Results
-<<<<<<< HEAD
-Locations with higher cost of living have higher ratings
-Warmer locations have higher ratings
-Suburban locations have higher rating
-Closer vicinity to the beach equals a higher rating
-Newer houses have a higher rating 
-Lower income areas have lower ratings
-Areas with higher crime rates have lower ratings. 
-=======
+
 - Higher ratings in areas with higher cost of living, warmer climates, close proximity to the beach, suburban settings, and newer houses.
 - Lower ratings in lower-income areas and those with higher crime rates.
->>>>>>> 532822dc3916870c5e92ceeb42ef334768fa9d10
 
-### Conclusion
 ---
+### Conclusion
+
 This study aims to understand how subjective Airbnb reviews align with objective neighborhood metrics in specific US cities, shedding light on the dynamics shaping urban perceptions in these areas.
