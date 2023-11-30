@@ -13,7 +13,7 @@ This study explores the relationship between subjective Airbnb reviews and objec
 ### Methodologies and Tools
 
 - **Data Collection**: Utilize Python libraries (e.g., Pandas, Requests) for data collection and preprocessing.
-- **Correlation Techniques**: Employ regression analysis,correlation coefficients and other analysis techniques.
+- **Correlation Techniques**: Employ regression analysis, correlation coefficients and other analysis techniques(cluster, principle component, etc.)
 - **Visualization**: Use Matplotlib or Plotly or Seaborn for visual representation of relationships.
 - **Sentiment Analysis**: Implement TextBlob for sentiment analysis of Airbnb reviews and consider numerical ratings.
 
