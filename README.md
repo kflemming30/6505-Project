@@ -46,7 +46,7 @@ This study explores the relationship between subjective Airbnb reviews and objec
 - Addressing temporal changes in socioeconomic factors and reviews.
 
 ### Expected Results
-- Higher ratings in areas with higher cost of living, warmer climates, suburban settings, proximity to beaches, and newer houses.
+- Higher ratings in areas with higher cost of living, warmer climates, suburban settings, and newer houses.
 - Lower ratings in lower-income areas and those with higher crime rates.
 
 ### Conclusion
