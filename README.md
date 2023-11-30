@@ -3,21 +3,21 @@
 ## Project Overview
 
 This study explores the relationship between subjective Airbnb reviews and objective neighborhood metrics in specific US cities. The analysis involves crime statistics, demographics, socioeconomic indicators, environmental quality, aligning them with sentiments expressed in Airbnb reviews.
-
-### Objectives
 ---
+### Objectives
+
 - Investigate correlations between subjective reviews and quantifiable neighborhood attributes in targeted US cities.
 - Understand how guest experiences align with tangible neighborhood characteristics.
-
-### Methodologies and Tools
 ---
+### Methodologies and Tools
+
 - **Data Collection**: Utilize Python libraries (e.g., Pandas, Requests) for data collection and preprocessing.
 - **Correlation Techniques**: Employ regression analysis, correlation coefficients and other analysis techniques(cluster, principle component, etc.)
 - **Visualization**: Use Matplotlib or Plotly or Seaborn for visual representation of relationships.
 - **Sentiment Analysis**: Implement TextBlob for sentiment analysis of Airbnb reviews and consider numerical ratings.
-
-### Data Collection and Analysis
 ---
+### Data Collection and Analysis
+
 #### Airbnb Review Sentiment
 
 - **Data Collection**: Extract Airbnb review texts and numerical ratings.
@@ -37,14 +37,14 @@ This study explores the relationship between subjective Airbnb reviews and objec
 
 - **Data Collection**: Obtain air quality, pollution (epa.gov) 
 - **Methodology**: Spatial analysis to correlate environmental factors with review sentiments.
-
+---
 ### Anticipated Challenges
 - Data integration challenges (location data, scraping keywords).
 - Learning curve with GitHub.
 - Selecting relevant variables for comparison.
 - Distinguishing correlation from causation.
 - Addressing temporal changes in socioeconomic factors and reviews.
-
+---
 ### Expected Results
 - Higher ratings in areas with higher cost of living, warmer climates, suburban settings, proximity to beaches, and newer houses.
 - Lower ratings in lower-income areas and those with higher crime rates.
