@@ -2,19 +2,19 @@
 
 ## Project Overview
 
-This study aims to explore the relationship between subjective Airbnb reviews and objective neighborhood metrics in specific cities across the US. The project involves analyzing diverse datasets, including crime statistics, demographics & socioeconomic indicators, environmental quality, aligning them with sentiments expressed in Airbnb reviews.
+This study explores the relationship between subjective Airbnb reviews and objective neighborhood metrics in specific US cities. The analysis involves crime statistics, demographics, socioeconomic indicators, environmental quality, aligning them with sentiments expressed in Airbnb reviews.
 
 ### Objectives
 
-- Investigate correlations between subjective perceptions in reviews and quantifiable neighborhood attributes within targeted US cities.
-- Enhance understanding of how guest experiences align with tangible neighborhood characteristics in specific urban areas.
-- Establish a framework aligning review sentiments with diverse objective metrics in the chosen cities.
+- Investigate correlations between subjective reviews and quantifiable neighborhood attributes in targeted US cities.
+- Understand how guest experiences align with tangible neighborhood characteristics.
+- Establish a framework aligning review sentiments with diverse objective metrics in selected cities.
 
 ### Methodologies and Tools
 
-- **Data Collection**: Utilize Python libraries (such as Pandas and Requests) to collect and preprocess datasets.
-- **Correlation Techniques**: Employ regression analysis, clustering algorithms (like K-means), and correlation coefficients to identify associations.
-- **Visualization**: Use Matplotlib or Seaborn for scatter plots, heatmaps, and visual representation of relationships.
+- **Data Collection**: Utilize Python libraries (e.g., Pandas, Requests) for data collection and preprocessing.
+- **Correlation Techniques**: Employ regression analysis,correlation coefficients and other analysis techniques.
+- **Visualization**: Use Matplotlib or Plotly or Seaborn for visual representation of relationships.
 - **Sentiment Analysis**: Implement TextBlob for sentiment analysis of Airbnb reviews and consider numerical ratings.
 
 ### Data Collection and Analysis
@@ -26,19 +26,19 @@ This study aims to explore the relationship between subjective Airbnb reviews an
 
 #### Demographic and Socio-economic Data
 
-- **Data Collection**: Access census databases for population, income, education information, cost-of-living data (housing, food cost, etc.) in reviewed neighborhoods.
-- **Methodology**: Conduct demographic profiling, segmentation, regression analysis, clustering algorithms, and correlation coefficients.
+- **Data Collection**: Access census databases for population, income, education, and cost-of-living data in reviewed neighborhoods.
+- **Methodology**: Conduct demographic profiling, segmentation, regression, and correlation analysis.
 
 #### Environmental Quality
 
-- **Data Collection**: Obtain air quality, pollution, and green space data from environmental agencies.
+- **Data Collection**: Obtain air quality, pollution, or distance to beaches data.
 - **Methodology**: Spatial analysis to correlate environmental factors with review sentiments.
 
 #### Airbnb Review Sentiment
 
 - **Data Collection**: Extract Airbnb review texts and numerical ratings.
-- **Methodology**: Use TextBlob for sentiment analysis of review texts. Consider numerical ratings for quantitative analysis within the specified cities.
+- **Methodology**: Use TextBlob for sentiment analysis of review texts and numerical ratings for quantitative analysis.
 
 ### Conclusion
 
-This integrated study focuses on exploring the relationship between subjective Airbnb reviews and objective neighborhood metrics in specific cities across the US, aiming to illuminate the dynamics shaping urban perceptions in these selected urban areas.
+This study aims to understand how subjective Airbnb reviews align with objective neighborhood metrics in specific US cities, shedding light on the dynamics shaping urban perceptions in these areas.
