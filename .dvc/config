@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://github.com/kflemming30/Urban_Dynamics_and_Airbnb
