@@ -8,7 +8,6 @@ This study explores the relationship between subjective Airbnb reviews and objec
 
 - Investigate correlations between subjective reviews and quantifiable neighborhood attributes in targeted US cities.
 - Understand how guest experiences align with tangible neighborhood characteristics.
-- Establish a framework aligning review sentiments with diverse objective metrics in selected cities.
 
 ### Methodologies and Tools
 
