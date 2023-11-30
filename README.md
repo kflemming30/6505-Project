@@ -18,6 +18,11 @@ This study explores the relationship between subjective Airbnb reviews and objec
 
 ### Data Collection and Analysis
 ---
+#### Airbnb Review Sentiment
+
+- **Data Collection**: Extract Airbnb review texts and numerical ratings.
+- **Methodology**: Use TextBlob for sentiment analysis of review texts and numerical ratings for quantitative analysis.
+
 #### Crime Statistics
 
 - **Data Collection**: Retrieve crime data (bjs.gov and city-data.com)
@@ -30,13 +35,9 @@ This study explores the relationship between subjective Airbnb reviews and objec
 
 #### Environmental Quality
 
-- **Data Collection**: Obtain air quality, pollution (epa.gov, 
+- **Data Collection**: Obtain air quality, pollution (epa.gov) 
 - **Methodology**: Spatial analysis to correlate environmental factors with review sentiments.
 
-#### Airbnb Review Sentiment
-
-- **Data Collection**: Extract Airbnb review texts and numerical ratings.
-- **Methodology**: Use TextBlob for sentiment analysis of review texts and numerical ratings for quantitative analysis.
 
 ### Conclusion
 ---
