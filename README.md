@@ -44,6 +44,7 @@ This study explores the relationship between subjective Airbnb reviews and objec
 - Selecting relevant variables for comparison.
 - Distinguishing correlation from causation.
 - Addressing temporal changes in socioeconomic factors and reviews.
+- Addressing Short-Term Rentals vs Long-Term Rentals
 
 ### Expected Results
 - Higher ratings in areas with higher cost of living, warmer climates, suburban settings, and newer houses.
