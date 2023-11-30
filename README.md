@@ -38,6 +38,16 @@ This study explores the relationship between subjective Airbnb reviews and objec
 - **Data Collection**: Obtain air quality, pollution (epa.gov) 
 - **Methodology**: Spatial analysis to correlate environmental factors with review sentiments.
 
+### Anticipated Challenges
+- Data integration challenges (location data, scraping keywords).
+- Learning curve with GitHub.
+- Selecting relevant variables for comparison.
+- Distinguishing correlation from causation.
+- Addressing temporal changes in socioeconomic factors and reviews.
+
+### Expected Results
+- Higher ratings in areas with higher cost of living, warmer climates, suburban settings, proximity to beaches, and newer houses.
+- Lower ratings in lower-income areas and those with higher crime rates.
 
 ### Conclusion
 ---
