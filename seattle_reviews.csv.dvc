@@ -1,0 +1,5 @@
+outs:
+- md5: f60a87dcc57a44841cd56c18e616dc45
+  size: 9577215
+  hash: md5
+  path: seattle_reviews.csv
